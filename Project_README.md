@@ -28,7 +28,7 @@ Revenue by Hour
 Shows customer ordering behaviour throughout the day, supporting operational planning.
 
 # Dashboard
-- <a href="https://github.com/skrnkiran/Excel-project/blob/main/Dashboard%20Screenshot.png"></a>
+- <a href="https://github.com/skrnkiran/Excel-project/blob/main/Dashboard%20Screenshot.png">Dashboard View</a>
 
 Interactive slicers allow users to filter by order date, delivery date, and occasion, adjusting the full dashboard to support exploratory analysis.
 
